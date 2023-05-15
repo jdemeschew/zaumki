@@ -1,0 +1,46 @@
+html {
+  font-size: 0.9rem;
+}
+
+.link {
+  text-decoration: underline;
+}
+
+/*
+	Left sidebar
+*/
+
+div.sidebar .nav-item a {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+div.sidebar .nav-item h4 {
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+/*
+  Editor
+*/
+#btnCurrenType {
+  cursor: pointer;
+}
+
+.link {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/** Tables
+*/
+tr.disabled{
+  filter: blur(1px);
+  pointer-events: none;
+}
+
+

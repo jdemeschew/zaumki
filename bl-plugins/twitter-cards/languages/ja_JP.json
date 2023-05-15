@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Twitter Cards",
+		"description": "Twitter Cardsを使うとツイートに写真や動画などのメディアを添付できます。これによりウェブサイトへのアクセスが期待できます。"
+	},
+	"default-image": "デフォルト画像"
+}

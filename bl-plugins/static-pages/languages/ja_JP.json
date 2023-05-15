@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Static Pages",
+		"description": "静的ページのナビゲーションメニュー"
+	},
+	"home-link": "ホームへのリンク",
+	"show-the-home-link-on-the-sidebar": "サイドバーにホームへのリンクを表示します。"
+}

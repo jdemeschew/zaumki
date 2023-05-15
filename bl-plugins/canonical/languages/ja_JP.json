@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Canonical",
+		"description": "URL正規化(Canonical URL)を使用すると、検索エンジンにどのURLが同一のコンテンツであるか通知できます。"
+	}
+}

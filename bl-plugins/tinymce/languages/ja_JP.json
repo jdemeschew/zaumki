@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "TinyMCE",
+		"description": "コンテンツの書式を設定するためのHTMLエディターです。Markdownを利用しないユーザーにおすすめです。"
+	}
+}

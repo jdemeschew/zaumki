@@ -1,0 +1,11 @@
+{
+	"author": "EasyMDE",
+	"email": "",
+	"website": "https://easymde.tk",
+	"version": "2.15.0",
+	"releaseDate": "2021-02-14",
+	"license": "MIT",
+	"compatible": "4.0",
+	"type": "editor",
+	"notes": "Please read the README.md."
+}

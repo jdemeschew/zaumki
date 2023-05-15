@@ -1,0 +1,11 @@
+{
+	"plugin-data":
+	{
+		"name": "API",
+		"description": "HTTPを使ってBluditとやり取りするためのインターフェースです。<br>このプラグインの詳細については「<a href=\"https://docs.bludit.com/en/api/introduction\">API紹介</a>」をご覧ください。"
+	},
+	"api-token": "APIトークン",
+	"amount-of-pages": "ページ数",
+	"this-is-the-maximum-of-pages-to-return-when-you-call-to": "これは /api/pagesを呼び出したときに返すページ数の最大数です。",
+	"this-token-is-for-read-only-and-is-regenerated-every-time-you-install-the-plugin": "このトークンは読み取り専用のトークンです。プラグインをインストールするたびに再生成されます。"
+}

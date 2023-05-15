@@ -1,0 +1,10 @@
+{
+	"plugin-data":
+	{
+		"name": "Sitemap",
+		"description": "このプラグインはウェブサイトのページ一覧を提供するsitemap.xmlを生成します。これは検索エンジンがウェブサイトのコンテンツの整理とフィルタリングに役立ちます。"
+	},
+	"sitemap-url": "サイトマップURL",
+	"notifies-google-when-you-created": "サイトのコンテンツを作成、修正、削除するとGoogleに通知します。",
+	"notifies-bing-when-you-created": "サイトのコンテンツを作成、修正、削除するとBingに通知します。"
+}

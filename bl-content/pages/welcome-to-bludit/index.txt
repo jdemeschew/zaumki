@@ -1,0 +1,16 @@
+<p>Thank you for choosing Bludit and welcome to our community, we are growing day by day and it's amazing.</p>
+<p>Follow Bludit on different social networks:</p>
+<ul>
+<li><a href="https://twitter.com/bludit">https://twitter.com/bludit</a></li>
+<li><a href="https://fb.com/bluditcms">https://facebook.com/bluditcms</a></li>
+</ul>
+<p>Take a look at the plugins and themes:</p>
+<ul>
+<li><a href="https://plugins.bludit.com">https://plugins.bludit.com</a></li>
+<li><a href="https://themes.bludit.com">https://themes.bludit.com</a></li>
+</ul>
+<p>Do you need support? Or want to read more about Bludit? Consult our official documentation or participate in our forum:</p>
+<ul>
+<li><a href="https://forum.bludit.org">https://forum.bludit.org</a></li>
+<li><a href="https://docs.bludit.com">https://docs.bludit.com</a></li>
+</ul>

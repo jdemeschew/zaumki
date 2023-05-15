@@ -1,0 +1,4 @@
+.editor-toolbar { background: #f1f1f1; font-size: 1.2em; padding: 5px; border-color: #ddd;}
+.editor-toolbar::before { margin-bottom: 2px !important }
+.editor-toolbar::after { margin-top: 2px !important }
+.CodeMirror, .CodeMirror-scroll { flex-grow: 1!important }
